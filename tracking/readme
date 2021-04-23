@@ -1,0 +1,2 @@
+运行tracking.py使小车按照轨迹寻迹运动
+运行trackingcar.py可在界面显示车辆所在位置（需要车载PD、arduino）
